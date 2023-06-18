@@ -9,3 +9,5 @@ neku entry32 funkciju da bi koristio 32 bita koristi funkciju is filea
 "test.c" koja "proverava" da li os moze da se bootuje
 iskreno mislim da bi ti klipi making an os to play tetris od jdha
 malo pomogao sa ovime tako da da.
+
+runaj sudo apt install make gcc i mozda tebi treba jos nes (Ako si na debian-based linuxu)
