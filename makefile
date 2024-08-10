@@ -10,7 +10,8 @@ OUT = $(BIN)/boot.bin
 IMAGE = $(BIN)/boot.img
 
 CCFLAGS  = -m32 -std=c11 -m32
-CCFLAGS += -O2 -g -v -Wall
+# CCFLAGS += -O2 
+CCFLAGS += -v -Wall
 CCFLAGS += -Wextra -Wpedantic
 CCFLAGS += -Wstrict-aliasing
 CCFLAGS += -Wno-pointer-arith
